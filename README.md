@@ -1,4 +1,4 @@
-#Icons used for CasaOS dashboard.
+# Icons used for CasaOS dashboard.
 
 Add this to your compose files
 ```
